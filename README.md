@@ -24,3 +24,5 @@
     <a href="https://twitter.com/matheus_algayer/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/matheus_algayer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+   ![](https://github.com/algayer/snk/raw/output/github-contribution-grid-snake.svg)
