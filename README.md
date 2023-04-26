@@ -3,7 +3,7 @@
 - 📍 Santa Cruz do Sul / Venâncio Aires
 - ✏️ IFSul - Campus Venâncio Aires
 - 💼 Imply® Tecnologia
-
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=algayer&show_icons=true&theme=tokyonight)
 
 <div style="display: inline_block"><br>
@@ -26,8 +26,6 @@
 </div>
 <br>
 <br>
-
-  ![Snake animation](https://github.com/algayer/algayer/blob/output/github-contribution-grid-snake.svg)
   
 <div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
