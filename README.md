@@ -16,6 +16,14 @@
   <img align="right" alt="Algayer-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/40/76/79/407679d20088c659aba7a760c69dd7c3.jpg">
 </div>
   
+  <div>
+  <a href="https://github.com/algayer">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=algayer&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algayer&layout=compact&langs_count=7&theme=react" />
+
+  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+ </div>
+  
   ##
 
 <div> 
@@ -27,6 +35,8 @@
 <br>
 <br>
 
+    ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+  
 <div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{algayer}/count.svg" /></p> 
